@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3938-twisted-mirror-path-count](https://github.com/rudradas05/DSA/tree/master/3938-twisted-mirror-path-count) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3938-twisted-mirror-path-count](https://github.com/rudradas05/DSA/tree/master/3938-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [3938-twisted-mirror-path-count](https://github.com/rudradas05/DSA/tree/master/3938-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
