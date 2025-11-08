@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rudradas05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/rudradas05/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rudradas05/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -94,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rudradas05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rudradas05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
