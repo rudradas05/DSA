@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/rudradas05/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rudradas05/DSA/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudradas05/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1301-reformat-department-table](https://github.com/rudradas05/DSA/tree/master/1301-reformat-department-table) |
 <!---LeetCode Topics End-->
