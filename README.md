@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rudradas05/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/rudradas05/DSA/tree/master/0134-gas-station) |
 | [0397-integer-replacement](https://github.com/rudradas05/DSA/tree/master/0397-integer-replacement) |
+| [0561-array-partition](https://github.com/rudradas05/DSA/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/rudradas05/DSA/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/rudradas05/DSA/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/rudradas05/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rudradas05/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/rudradas05/DSA/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudradas05/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0561-array-partition](https://github.com/rudradas05/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0890-lemonade-change](https://github.com/rudradas05/DSA/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/rudradas05/DSA/tree/master/0979-di-string-match) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/rudradas05/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1018-largest-perimeter-triangle](https://github.com/rudradas05/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rudradas05/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rudradas05/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
