@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rudradas05/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2032-largest-odd-number-in-string](https://github.com/rudradas05/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudradas05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/rudradas05/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rudradas05/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -144,9 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
 | [0397-integer-replacement](https://github.com/rudradas05/DSA/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/rudradas05/DSA/tree/master/0397-integer-replacement) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
