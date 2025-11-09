@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
+| [0209-minimum-size-subarray-sum](https://github.com/rudradas05/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3938-twisted-mirror-path-count](https://github.com/rudradas05/DSA/tree/master/3938-twisted-mirror-path-count) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudradas05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/rudradas05/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
@@ -115,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
 | [3938-twisted-mirror-path-count](https://github.com/rudradas05/DSA/tree/master/3938-twisted-mirror-path-count) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rudradas05/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rudradas05/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
