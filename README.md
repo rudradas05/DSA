@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rudradas05/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudradas05/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/rudradas05/DSA/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/rudradas05/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0561-array-partition](https://github.com/rudradas05/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/rudradas05/DSA/tree/master/0605-can-place-flowers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
+| [0491-non-decreasing-subsequences](https://github.com/rudradas05/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rudradas05/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Tree
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rudradas05/DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/rudradas05/DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/rudradas05/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/rudradas05/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
 | [0397-integer-replacement](https://github.com/rudradas05/DSA/tree/master/0397-integer-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/rudradas05/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rudradas05/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Memoization
 |  |
