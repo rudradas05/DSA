@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rudradas05/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/rudradas05/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/rudradas05/DSA/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudradas05/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0561-array-partition](https://github.com/rudradas05/DSA/tree/master/0561-array-partition) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudradas05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/rudradas05/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/rudradas05/DSA/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/rudradas05/DSA/tree/master/0561-array-partition) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rudradas05/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
