@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rudradas05/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rudradas05/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3379-score-of-a-string](https://github.com/rudradas05/DSA/tree/master/3379-score-of-a-string) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rudradas05/DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3567-convert-date-to-binary](https://github.com/rudradas05/DSA/tree/master/3567-convert-date-to-binary) |
 ## Greedy
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1039-find-the-town-judge](https://github.com/rudradas05/DSA/tree/master/1039-find-the-town-judge) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rudradas05/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rudradas05/DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rudradas05/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sliding Window
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rudradas05/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/rudradas05/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rudradas05/DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Sorting
 |  |
 | ------- |
