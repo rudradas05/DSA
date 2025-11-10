@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/rudradas05/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rudradas05/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/rudradas05/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3567-convert-date-to-binary](https://github.com/rudradas05/DSA/tree/master/3567-convert-date-to-binary) |
 ## Greedy
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/rudradas05/DSA/tree/master/1642-water-bottles) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/rudradas05/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Counting Sort
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rudradas05/DSA/tree/master/0234-palindrome-linked-list) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/rudradas05/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
