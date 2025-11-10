@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rudradas05/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rudradas05/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/rudradas05/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/rudradas05/DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/rudradas05/DSA/tree/master/2873-prime-pairs-with-target-sum) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/rudradas05/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rudradas05/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/rudradas05/DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3938-twisted-mirror-path-count](https://github.com/rudradas05/DSA/tree/master/3938-twisted-mirror-path-count) |
 ## Dynamic Programming
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/rudradas05/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rudradas05/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/rudradas05/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/rudradas05/DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Counting
 |  |
 | ------- |
