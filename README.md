@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rudradas05/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rudradas05/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/rudradas05/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/rudradas05/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rudradas05/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rudradas05/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -215,11 +216,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rudradas05/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/rudradas05/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
 | [3938-twisted-mirror-path-count](https://github.com/rudradas05/DSA/tree/master/3938-twisted-mirror-path-count) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rudradas05/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/rudradas05/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudradas05/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
