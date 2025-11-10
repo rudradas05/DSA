@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rudradas05/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/rudradas05/DSA/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rudradas05/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3938-twisted-mirror-path-count](https://github.com/rudradas05/DSA/tree/master/3938-twisted-mirror-path-count) |
 ## Dynamic Programming
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rudradas05/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/rudradas05/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rudradas05/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sliding Window
 |  |
 | ------- |
