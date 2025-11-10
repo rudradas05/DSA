@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/rudradas05/DSA/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/rudradas05/DSA/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/rudradas05/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1039-find-the-town-judge](https://github.com/rudradas05/DSA/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rudradas05/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rudradas05/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1603-running-sum-of-1d-array](https://github.com/rudradas05/DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rudradas05/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/rudradas05/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1039-find-the-town-judge](https://github.com/rudradas05/DSA/tree/master/1039-find-the-town-judge) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rudradas05/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rudradas05/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sliding Window
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rudradas05/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/rudradas05/DSA/tree/master/2873-prime-pairs-with-target-sum) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/rudradas05/DSA/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
