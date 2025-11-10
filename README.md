@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/rudradas05/DSA/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2873-prime-pairs-with-target-sum](https://github.com/rudradas05/DSA/tree/master/2873-prime-pairs-with-target-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rudradas05/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3567-convert-date-to-binary](https://github.com/rudradas05/DSA/tree/master/3567-convert-date-to-binary) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/rudradas05/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rudradas05/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3567-convert-date-to-binary](https://github.com/rudradas05/DSA/tree/master/3567-convert-date-to-binary) |
 ## Greedy
 |  |
 | ------- |
