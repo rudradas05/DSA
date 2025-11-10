@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/rudradas05/DSA/tree/master/0979-di-string-match) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rudradas05/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/rudradas05/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/rudradas05/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rudradas05/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rudradas05/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/rudradas05/DSA/tree/master/1642-water-bottles) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/rudradas05/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rudradas05/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Counting Sort
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rudradas05/DSA/tree/master/0234-palindrome-linked-list) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/rudradas05/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rudradas05/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
