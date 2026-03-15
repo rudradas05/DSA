@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rudradas05/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rudradas05/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudradas05/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/rudradas05/DSA/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/rudradas05/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/rudradas05/DSA/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/rudradas05/DSA/tree/master/0491-non-decreasing-subsequences) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rudradas05/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rudradas05/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/rudradas05/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/rudradas05/DSA/tree/master/0213-house-robber-ii) |
 | [0397-integer-replacement](https://github.com/rudradas05/DSA/tree/master/0397-integer-replacement) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/rudradas05/DSA/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
