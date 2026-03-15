@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rudradas05/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rudradas05/DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/rudradas05/DSA/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudradas05/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rudradas05/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0979-di-string-match](https://github.com/rudradas05/DSA/tree/master/0979-di-string-match) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rudradas05/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rudradas05/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rudradas05/DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/rudradas05/DSA/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudradas05/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rudradas05/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/rudradas05/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudradas05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudradas05/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rudradas05/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudradas05/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/rudradas05/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rudradas05/DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
