@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rudradas05/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudradas05/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rudradas05/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/rudradas05/DSA/tree/master/0647-palindromic-substrings) |
 | [0942-di-string-match](https://github.com/rudradas05/DSA/tree/master/0942-di-string-match) |
 | [0979-di-string-match](https://github.com/rudradas05/DSA/tree/master/0979-di-string-match) |
 | [1106-parsing-a-boolean-expression](https://github.com/rudradas05/DSA/tree/master/1106-parsing-a-boolean-expression) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rudradas05/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/rudradas05/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/rudradas05/DSA/tree/master/0234-palindrome-linked-list) |
+| [0647-palindromic-substrings](https://github.com/rudradas05/DSA/tree/master/0647-palindromic-substrings) |
 | [0942-di-string-match](https://github.com/rudradas05/DSA/tree/master/0942-di-string-match) |
 | [0979-di-string-match](https://github.com/rudradas05/DSA/tree/master/0979-di-string-match) |
 ## Array
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rudradas05/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rudradas05/DSA/tree/master/0213-house-robber-ii) |
 | [0397-integer-replacement](https://github.com/rudradas05/DSA/tree/master/0397-integer-replacement) |
+| [0647-palindromic-substrings](https://github.com/rudradas05/DSA/tree/master/0647-palindromic-substrings) |
 | [1402-reducing-dishes](https://github.com/rudradas05/DSA/tree/master/1402-reducing-dishes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/rudradas05/DSA/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
