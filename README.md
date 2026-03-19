@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rudradas05/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/rudradas05/DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/rudradas05/DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/rudradas05/DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/rudradas05/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rudradas05/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rudradas05/DSA/tree/master/0198-house-robber) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rudradas05/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rudradas05/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/rudradas05/DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/rudradas05/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rudradas05/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rudradas05/DSA/tree/master/0213-house-robber-ii) |
 | [0397-integer-replacement](https://github.com/rudradas05/DSA/tree/master/0397-integer-replacement) |
