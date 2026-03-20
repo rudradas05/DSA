@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudradas05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/rudradas05/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/rudradas05/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/rudradas05/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rudradas05/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rudradas05/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudradas05/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rudradas05/DSA/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/rudradas05/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rudradas05/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rudradas05/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/rudradas05/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rudradas05/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudradas05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rudradas05/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rudradas05/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rudradas05/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rudradas05/DSA/tree/master/0139-word-break) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rudradas05/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rudradas05/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/rudradas05/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/rudradas05/DSA/tree/master/0451-sort-characters-by-frequency) |
