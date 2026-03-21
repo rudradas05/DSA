@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rudradas05/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/rudradas05/DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rudradas05/DSA/tree/master/0189-rotate-array) |
 | [1018-largest-perimeter-triangle](https://github.com/rudradas05/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rudradas05/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudradas05/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rudradas05/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/rudradas05/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rudradas05/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rudradas05/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rudradas05/DSA/tree/master/0055-jump-game) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rudradas05/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rudradas05/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rudradas05/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
