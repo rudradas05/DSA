@@ -28,7 +28,7 @@ public:
         int n = nums.size();
 
     
-        dp.assign(n, vector<int>(100000, -2));
+        dp.assign(n, vector<int>(20000, -2));
 
         return solve(0, 0, nums, target);
     }
