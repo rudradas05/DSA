@@ -1,18 +1,20 @@
 class Solution {
 public:
-    bool f(int ind, vector<int> & nums, vector<int> &dp){
-        if(ind==0)return true;
-        if(dp[ind]!=-1)return dp[ind];
-        for(int k = 0; k<ind; k++){
-            if(k+nums[k]>=ind){
-                if(f(k,nums,dp))return true;
+    bool solve(int ind, vector<int>& nums, vector<int>& dp) {
+        if (ind >= nums.size() - 1)
+            return true;
+        if (dp[ind] != -1)
+            return dp[ind];
+        for (int i = 1; i <= nums[ind]; i++) {
+
+            if (solve(ind + i, nums, dp)) {
+                return true;
             }
         }
-        return dp[ind]=false;
+        return dp[ind] = false;
     }
     bool canJump(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> dp(n,-1);
-        return f(n-1, nums, dp);
+        vector<int> dp(nums.size()+1, -1);
+        return solve(0, nums, dp);
     }
 };
