@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rudradas05/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0397-integer-replacement](https://github.com/rudradas05/DSA/tree/master/0397-integer-replacement) |
+| [0476-number-complement](https://github.com/rudradas05/DSA/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/rudradas05/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rudradas05/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Memoization
