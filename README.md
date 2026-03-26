@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudradas05/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/rudradas05/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/rudradas05/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/rudradas05/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/rudradas05/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rudradas05/DSA/tree/master/0058-length-of-last-word) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rudradas05/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/rudradas05/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/rudradas05/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rudradas05/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rudradas05/DSA/tree/master/0055-jump-game) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rudradas05/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
 | [0491-non-decreasing-subsequences](https://github.com/rudradas05/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/rudradas05/DSA/tree/master/0494-target-sum) |
