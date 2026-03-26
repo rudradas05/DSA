@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/rudradas05/DSA/tree/master/1106-parsing-a-boolean-expression) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rudradas05/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rudradas05/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rudradas05/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/rudradas05/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rudradas05/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rudradas05/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1402-reducing-dishes](https://github.com/rudradas05/DSA/tree/master/1402-reducing-dishes) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/rudradas05/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2245-destroying-asteroids](https://github.com/rudradas05/DSA/tree/master/2245-destroying-asteroids) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rudradas05/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rudradas05/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1402-reducing-dishes](https://github.com/rudradas05/DSA/tree/master/1402-reducing-dishes) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1603-running-sum-of-1d-array](https://github.com/rudradas05/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2245-destroying-asteroids](https://github.com/rudradas05/DSA/tree/master/2245-destroying-asteroids) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rudradas05/DSA/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/rudradas05/DSA/tree/master/0647-palindromic-substrings) |
 | [1402-reducing-dishes](https://github.com/rudradas05/DSA/tree/master/1402-reducing-dishes) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/rudradas05/DSA/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rudradas05/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
