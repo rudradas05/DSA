@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rudradas05/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/rudradas05/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/rudradas05/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rudradas05/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/rudradas05/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rudradas05/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1603-running-sum-of-1d-array](https://github.com/rudradas05/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/rudradas05/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2245-destroying-asteroids](https://github.com/rudradas05/DSA/tree/master/2245-destroying-asteroids) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/rudradas05/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/rudradas05/DSA/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/rudradas05/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1039-find-the-town-judge](https://github.com/rudradas05/DSA/tree/master/1039-find-the-town-judge) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/rudradas05/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rudradas05/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rudradas05/DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rudradas05/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rudradas05/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rudradas05/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/rudradas05/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Matrix
 |  |
 | ------- |
