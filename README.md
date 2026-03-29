@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/rudradas05/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rudradas05/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/rudradas05/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/rudradas05/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rudradas05/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rudradas05/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3379-score-of-a-string](https://github.com/rudradas05/DSA/tree/master/3379-score-of-a-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/rudradas05/DSA/tree/master/2245-destroying-asteroids) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/rudradas05/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/rudradas05/DSA/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/rudradas05/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rudradas05/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rudradas05/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/rudradas05/DSA/tree/master/2873-prime-pairs-with-target-sum) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rudradas05/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rudradas05/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/rudradas05/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/rudradas05/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Enumeration
 |  |
 | ------- |
