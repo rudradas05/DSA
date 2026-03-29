@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/rudradas05/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rudradas05/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-water-bottles](https://github.com/rudradas05/DSA/tree/master/1642-water-bottles) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rudradas05/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2032-largest-odd-number-in-string](https://github.com/rudradas05/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/rudradas05/DSA/tree/master/2050-count-good-numbers) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/rudradas05/DSA/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/rudradas05/DSA/tree/master/1402-reducing-dishes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1603-running-sum-of-1d-array](https://github.com/rudradas05/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rudradas05/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rudradas05/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2245-destroying-asteroids](https://github.com/rudradas05/DSA/tree/master/2245-destroying-asteroids) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rudradas05/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rudradas05/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/rudradas05/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rudradas05/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rudradas05/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Enumeration
 |  |
