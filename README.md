@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rudradas05/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rudradas05/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/rudradas05/DSA/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/rudradas05/DSA/tree/master/0371-sum-of-two-integers) |
 | [1018-largest-perimeter-triangle](https://github.com/rudradas05/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rudradas05/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/rudradas05/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/rudradas05/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/rudradas05/DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/rudradas05/DSA/tree/master/0326-power-of-three) |
 | [1106-parsing-a-boolean-expression](https://github.com/rudradas05/DSA/tree/master/1106-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/rudradas05/DSA/tree/master/2050-count-good-numbers) |
 ## Combinatorics
