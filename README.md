@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/rudradas05/DSA/tree/master/0890-lemonade-change) |
 | [0942-di-string-match](https://github.com/rudradas05/DSA/tree/master/0942-di-string-match) |
 | [0979-di-string-match](https://github.com/rudradas05/DSA/tree/master/0979-di-string-match) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/rudradas05/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1018-largest-perimeter-triangle](https://github.com/rudradas05/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1039-find-the-town-judge](https://github.com/rudradas05/DSA/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rudradas05/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rudradas05/DSA/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/rudradas05/DSA/tree/master/0566-reshape-the-matrix) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/rudradas05/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1642-water-bottles](https://github.com/rudradas05/DSA/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rudradas05/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rudradas05/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
