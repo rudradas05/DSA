@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rudradas05/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rudradas05/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/rudradas05/DSA/tree/master/2873-prime-pairs-with-target-sum) |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/rudradas05/DSA/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/rudradas05/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rudradas05/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/rudradas05/DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/rudradas05/DSA/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rudradas05/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/rudradas05/DSA/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3938-twisted-mirror-path-count](https://github.com/rudradas05/DSA/tree/master/3938-twisted-mirror-path-count) |
 ## Backtracking
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rudradas05/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/rudradas05/DSA/tree/master/0566-reshape-the-matrix) |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/rudradas05/DSA/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3938-twisted-mirror-path-count](https://github.com/rudradas05/DSA/tree/master/3938-twisted-mirror-path-count) |
 ## Binary Search
 |  |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/rudradas05/DSA/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/rudradas05/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rudradas05/DSA/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/rudradas05/DSA/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 ## Memoization
 |  |
 | ------- |
@@ -483,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rudradas05/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bitmask
+|  |
+| ------- |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/rudradas05/DSA/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 <!---LeetCode Topics End-->
