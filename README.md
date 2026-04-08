@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rudradas05/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rudradas05/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/rudradas05/DSA/tree/master/2873-prime-pairs-with-target-sum) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rudradas05/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/rudradas05/DSA/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/rudradas05/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rudradas05/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/rudradas05/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudradas05/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rudradas05/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rudradas05/DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Sorting
 |  |
