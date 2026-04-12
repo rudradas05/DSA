@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/rudradas05/DSA/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2032-largest-odd-number-in-string](https://github.com/rudradas05/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2245-destroying-asteroids](https://github.com/rudradas05/DSA/tree/master/2245-destroying-asteroids) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rudradas05/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rudradas05/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rudradas05/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/rudradas05/DSA/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/rudradas05/DSA/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rudradas05/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2245-destroying-asteroids](https://github.com/rudradas05/DSA/tree/master/2245-destroying-asteroids) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rudradas05/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rudradas05/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/rudradas05/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudradas05/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/rudradas05/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rudradas05/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rudradas05/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudradas05/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rudradas05/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rudradas05/DSA/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/rudradas05/DSA/tree/master/1402-reducing-dishes) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/rudradas05/DSA/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2245-destroying-asteroids](https://github.com/rudradas05/DSA/tree/master/2245-destroying-asteroids) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rudradas05/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rudradas05/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/rudradas05/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/rudradas05/DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rudradas05/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rudradas05/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rudradas05/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rudradas05/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -388,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rudradas05/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/rudradas05/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rudradas05/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rudradas05/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rudradas05/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rudradas05/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Enumeration
