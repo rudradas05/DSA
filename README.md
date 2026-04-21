@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rudradas05/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/rudradas05/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/rudradas05/DSA/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/rudradas05/DSA/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rudradas05/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/rudradas05/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/rudradas05/DSA/tree/master/0707-design-linked-list) |
 ## Data Stream
 |  |
 | ------- |
