@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/rudradas05/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rudradas05/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rudradas05/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/rudradas05/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/rudradas05/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rudradas05/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rudradas05/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
