@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rudradas05/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/rudradas05/DSA/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rudradas05/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rudradas05/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2245-destroying-asteroids](https://github.com/rudradas05/DSA/tree/master/2245-destroying-asteroids) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rudradas05/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/rudradas05/DSA/tree/master/0874-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/rudradas05/DSA/tree/master/1039-find-the-town-judge) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rudradas05/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rudradas05/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudradas05/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rudradas05/DSA/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rudradas05/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rudradas05/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudradas05/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rudradas05/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rudradas05/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rudradas05/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Matrix
