@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rudradas05/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/rudradas05/DSA/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/rudradas05/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3446-sort-matrix-by-diagonals](https://github.com/rudradas05/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rudradas05/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/rudradas05/DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3938-twisted-mirror-path-count](https://github.com/rudradas05/DSA/tree/master/3938-twisted-mirror-path-count) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rudradas05/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/rudradas05/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/rudradas05/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3446-sort-matrix-by-diagonals](https://github.com/rudradas05/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/rudradas05/DSA/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Counting
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rudradas05/DSA/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/rudradas05/DSA/tree/master/0566-reshape-the-matrix) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/rudradas05/DSA/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3446-sort-matrix-by-diagonals](https://github.com/rudradas05/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3938-twisted-mirror-path-count](https://github.com/rudradas05/DSA/tree/master/3938-twisted-mirror-path-count) |
 ## Binary Search
 |  |
