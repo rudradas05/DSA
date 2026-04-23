@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rudradas05/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rudradas05/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1402-reducing-dishes](https://github.com/rudradas05/DSA/tree/master/1402-reducing-dishes) |
+| [1552-magnetic-force-between-two-balls](https://github.com/rudradas05/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/rudradas05/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1603-running-sum-of-1d-array](https://github.com/rudradas05/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rudradas05/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/rudradas05/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rudradas05/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1402-reducing-dishes](https://github.com/rudradas05/DSA/tree/master/1402-reducing-dishes) |
+| [1552-magnetic-force-between-two-balls](https://github.com/rudradas05/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/rudradas05/DSA/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2245-destroying-asteroids](https://github.com/rudradas05/DSA/tree/master/2245-destroying-asteroids) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rudradas05/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rudradas05/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rudradas05/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rudradas05/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1552-magnetic-force-between-two-balls](https://github.com/rudradas05/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/rudradas05/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## Prefix Sum
 |  |
