@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/rudradas05/DSA/tree/master/0134-gas-station) |
 | [0397-integer-replacement](https://github.com/rudradas05/DSA/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/rudradas05/DSA/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/rudradas05/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rudradas05/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rudradas05/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/rudradas05/DSA/tree/master/0561-array-partition) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rudradas05/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rudradas05/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rudradas05/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/rudradas05/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rudradas05/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rudradas05/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/rudradas05/DSA/tree/master/0485-max-consecutive-ones) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rudradas05/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/rudradas05/DSA/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/rudradas05/DSA/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/rudradas05/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rudradas05/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/rudradas05/DSA/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/rudradas05/DSA/tree/master/0647-palindromic-substrings) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rudradas05/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rudradas05/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rudradas05/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/rudradas05/DSA/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rudradas05/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rudradas05/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rudradas05/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rudradas05/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rudradas05/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rudradas05/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/rudradas05/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rudradas05/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/rudradas05/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rudradas05/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
